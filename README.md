@@ -2,4 +2,4 @@
 First site
 
 
-[adaptive site](subaru-web.github.io/git/ "Adaptive site")
+[Adaptive Site](https://subaru-web.github.io/git/ "Adaptive site")
