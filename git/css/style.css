@@ -1,0 +1,35 @@
+label {
+	line-height: 30px;
+}
+
+body {
+	background-color: lightgray;
+}
+
+.a6 {
+	background-color: green;
+	color: white;
+	border: 1px solid black;
+	margin-left: 104px;
+}
+
+
+.b1 {
+	margin-left:25px
+}
+
+.b2 {
+	margin-left: 27px;
+}
+
+.b3 {
+	margin-left: 23px;
+}
+
+.b5 {
+	margin-left: 67px;
+}
+
+.b6 {
+	margin-left: 40px;
+}

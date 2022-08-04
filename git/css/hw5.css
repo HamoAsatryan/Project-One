@@ -1,0 +1,70 @@
+body {
+	background-color: khaki;
+}
+h3 {
+	background-color: orange;
+}
+
+.alfa {
+	margin-left: 200px;
+}
+
+.box {
+	width: 120px;
+	float: left;
+}
+
+.mini {
+	width: 170px;
+	float: left;
+}
+
+.mega {
+	width: 300px;
+	line-height: 50px;
+}
+
+.a {
+	line-height: 25px;
+	margin-left: 100px;
+}
+
+.a1 {
+	margin-left: 40px;
+}
+
+.a2 {
+	margin-left: 34px;
+}
+
+.a3 {
+	margin-left: 39px;
+}
+ .beta {
+ 	margin-left: auto;
+ }
+
+ .omega {
+ 	margin-left: 67px;
+ }
+
+ .burr {
+
+ }
+
+ .divni {
+ 	float: left;
+ 	width: 120px;
+ 	line-height: auto;
+ 	margin-left: 60px;
+ }
+
+ .buri {
+ 	float: left;
+ }
+
+ .titl {
+ 	margin-left: 180px;
+ 	line-height: 70px;
+ 	width: 10px;
+ }
